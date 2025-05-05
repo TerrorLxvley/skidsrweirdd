@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "skidsrweirdd",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9104d06b-cc66-44d9-994c-9034c2696e5b",
+      "database_name": "soft-term-01e3-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
